@@ -1,5 +1,7 @@
 # Docs
 
+Documentation for group student project based on [mkdocs](https://squidfunk.github.io/mkdocs-material/creating-your-site/#creating-your-site-unix-powershell).
+
 ## How to run
 
 ### Docker
