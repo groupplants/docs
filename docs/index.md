@@ -15,3 +15,7 @@
 ### Architektura
 
 ![placeholder](assets/sample.jpg)
+
+### Harmonogram
+
+![placeholder](assets/sample.jpg)
