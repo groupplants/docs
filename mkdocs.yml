@@ -2,3 +2,8 @@ site_name: My Docs
 
 extra_css:
   - assets/stylesheets/images.css
+
+nav:
+  - Wstęp: index.md
+  - Harmonogram: harmonogram.md
+  - Architektura: architektura.md
