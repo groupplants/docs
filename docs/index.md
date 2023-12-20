@@ -11,12 +11,3 @@
 | Michał   | Pryba      | 184637     |
 | Olaf     | Łogin      | 184090     |
 | Wojciech | Szamocki   | 188909     |
-
-### Harmonogram
-
-![Pierwsza strona harmonogramu](assets/harmonogram/1.jpg)
-![Druga strona harmonogramu](assets/harmonogram/2.jpg)
-
-### Architektura systemu podlewania
-
-![Diagram systemu](assets/achitektura.png)
