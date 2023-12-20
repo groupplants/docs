@@ -5,17 +5,18 @@
 ## Skład grupy
 
 | Imię     | Nazwisko   | nr Indeksu |
-|----------|------------|-----------|
-| Camille  | Nadir      | 188779    |
-| Dawid    | Mielewczyk | 189637    |
-| Michał   | Pryba      | 184637    |
-| Olaf     | Łogin      | 184090    |
-| Wojciech | Szamocki   | 188909    |
-
-### Architektura
-
-![placeholder](assets/sample.jpg)
+| -------- | ---------- | ---------- |
+| Camille  | Nadir      | 188779     |
+| Dawid    | Mielewczyk | 189637     |
+| Michał   | Pryba      | 184637     |
+| Olaf     | Łogin      | 184090     |
+| Wojciech | Szamocki   | 188909     |
 
 ### Harmonogram
 
-![placeholder](assets/sample.jpg)
+![Pierwsza strona harmonogramu](assets/harmonogram/1.jpg)
+![Druga strona harmonogramu](assets/harmonogram/2.jpg)
+
+### Architektura systemu podlewania
+
+![Diagram systemu](assets/achitektura.png)
