@@ -22,3 +22,17 @@
 ### Baza Danych i Przetwarzanie:
 - Raspberry Pi korzysta z lokalnej bazy danych do przechowywania historii pomiarów i danych dotyczących rośliny.
 - Algorytmy na Raspberry Pi analizują dane wejściowe i na ich podstawie sterują warunkami w doniczce, takimi jak nawilżanie gleby.
+--- 
+
+## Spis elementów
+
+- Raspberry Pi Zero W
+- 2 moduły ESP-8266
+- 2 czujniki wilgotności gleby Cytron Maker Soil Moisture
+- 2 serw Feetech FT90R-C002
+- 8 baterii Ni-Mh
+- 2 koszyczki na 3 baterie AA
+- 40 przewodów męsko-żeńskich
+- 40 przewodów żeńsko-żeńskich
+- 2 fotorezystory
+- 2 czujniki temperatury i wilgotności DHT11
