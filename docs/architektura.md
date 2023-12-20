@@ -22,6 +22,7 @@
 ### Baza Danych i Przetwarzanie:
 - Raspberry Pi korzysta z lokalnej bazy danych do przechowywania historii pomiarów i danych dotyczących rośliny.
 - Algorytmy na Raspberry Pi analizują dane wejściowe i na ich podstawie sterują warunkami w doniczce, takimi jak nawilżanie gleby.
+### &nbsp;
 
 ## Spis elementów
 
