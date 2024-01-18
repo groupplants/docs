@@ -11,3 +11,10 @@ Documentation for group student project based on [mkdocs](https://squidfunk.gith
 ### Python
 
 `mkdocs serve`
+
+## Creating UML schematics
+
+### Gaphor
+
+Download [gaphor](https://gaphor.org/download/). When creating schematics save the graphor project to the `graphor` directory.
+Export them to `docs/assets/uml` - svg format.
