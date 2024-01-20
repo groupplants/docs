@@ -311,7 +311,7 @@
 <val>reply</val>
 </messageSort>
 <name>
-<val>waked_up()</val>
+<val>woke_up()</val>
 </name>
 <presentation>
 <reflist>
@@ -727,7 +727,7 @@
 </CommentItem>
 <Comment id="f991eaa3-b702-11ee-81df-6c02e05c62b5">
 <body>
-<val>Jeśli przez godzinę serwer nie wyśle komendy wake_up() esp wybudzi się, w celu sprawdzenia wilgotności etc, przy okazji jeśli straci jakieś dane np. próg wilgotności wymaganej do podlania to wyśle zapytanie do serwera o dane</val>
+<val>Jeśli przez godzinę serwer nie wyśle komendy woke_up() esp wybudzi się, w celu sprawdzenia wilgotności etc, przy okazji jeśli straci jakieś dane np. próg wilgotności wymaganej do podlania to wyśle zapytanie do serwera o dane</val>
 </body>
 <presentation>
 <reflist>
