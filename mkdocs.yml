@@ -1,5 +1,9 @@
 site_name: Inteligentne Podlewanie Roślin
 
+theme:
+  name: material
+  favicon: assets/favicon.ico
+
 extra_css:
   - assets/stylesheets/images.css
 
@@ -8,6 +12,3 @@ nav:
   - Harmonogram: harmonogram.md
   - Architektura: architektura.md
   - Elektronika: elektronika.md
-
-extra:
-  favicon: docs/assets/plant.ico
