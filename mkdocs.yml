@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Inteligentne Podlewanie Roślin
 
 extra_css:
   - assets/stylesheets/images.css
@@ -9,3 +9,7 @@ nav:
   - Architektura: architektura.md
   - Integracja Smart Home: smarthome.md
   - Elektronika: elektronika.md
+  
+extra:
+  favicon: docs/assets/plant.ico
+  
