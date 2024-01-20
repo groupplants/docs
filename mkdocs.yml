@@ -2,7 +2,9 @@ site_name: Inteligentne Podlewanie Roślin
 
 theme:
   name: material
-  favicon: assets/favicon.ico
+  # https://icon-icons.com/icon/plant-nature-leaves-leaf-dirt-earth/141982
+  favicon: assets/icon.png
+  logo: assets/icon.png
 
 extra_css:
   - assets/stylesheets/images.css
