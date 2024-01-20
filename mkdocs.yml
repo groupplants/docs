@@ -12,8 +12,3 @@ nav:
   - Harmonogram: harmonogram.md
   - Architektura: architektura.md
   - Elektronika: elektronika.md
-
-theme:
-  name: material
-  favicon: assets/plant.ico
-  logo: assets/plant.ico
