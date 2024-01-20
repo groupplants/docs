@@ -8,3 +8,6 @@ nav:
   - Harmonogram: harmonogram.md
   - Architektura: architektura.md
   - Elektronika: elektronika.md
+
+extra:
+  favicon: docs/assets//plant.png
