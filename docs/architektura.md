@@ -22,6 +22,10 @@
 - Mikrokontroler w doniczce komunikuje się bezprzewodowo przez Wi-Fi z hostem na Raspberry Pi.
 - Dane z sensorów są przesyłane do Raspberry Pi, które przetwarza te informacje i podejmuje decyzje na podstawie zaprogramowanych algorytmów.
 
+#### Schemat łączności i wybudzania serwer <-> klient
+
+![Schemat łączności](assets/uml/serwer_klient.png)
+
 ### Baza Danych i Przetwarzanie
 
 - Raspberry Pi korzysta z lokalnej bazy danych do przechowywania historii pomiarów i danych dotyczących rośliny.
