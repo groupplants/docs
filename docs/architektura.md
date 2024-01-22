@@ -22,7 +22,7 @@
 - Mikrokontroler w doniczce komunikuje się bezprzewodowo przez Wi-Fi z hostem na Raspberry Pi.
 - Dane z sensorów są przesyłane do Raspberry Pi, które przetwarza te informacje i podejmuje decyzje na podstawie zaprogramowanych algorytmów.
 
-## UML systemu
+## Schemat UML systemu
 
 ### Łączność serwer-klient
 
