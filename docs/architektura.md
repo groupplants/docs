@@ -55,3 +55,5 @@
 - 40 przewodów żeńsko-żeńskich
 - 2 fotorezystory
 - 2 czujniki temperatury i wilgotności DHT11
+
+![Zamówione elementy](assets/elektronika.jpg)
