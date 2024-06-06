@@ -6,6 +6,11 @@ Documentation for group student project based on [mkdocs](https://squidfunk.gith
 
 ## How to run
 
+### Wisit our website
+
+We're hosting our documentation online, here is the link:
+[documetation](https://groupplants.github.io/docs/)
+
 ### Docker
 
 1. **Install Docker**: Ensure that Docker is installed and running on your computer. You can download it from the [official Docker website](https://www.docker.com/get-started).
