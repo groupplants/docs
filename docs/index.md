@@ -11,3 +11,9 @@
 | Michał   | Pryba      | 184637     |
 | Olaf     | Łogin      | 184090     |
 | Wojciech | Szamocki   | 188909     |
+
+### Zakres prac
+
+- Projektowanie systemu (hardware i software)
+- Implementacja algorytmów sterowania podlewaniem
+- Testowanie i optymalizacja systemu
